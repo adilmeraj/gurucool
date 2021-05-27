@@ -1,0 +1,2 @@
+# gurucool
+Repo of GuruCool
